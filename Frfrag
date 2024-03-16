@@ -1,5 +1,5 @@
 {
-  "remarks": "2",
+  "remarks": "sshoceanrtez (IRCF Fragment)",
   "log": {
     "access": "",
     "error": "",
@@ -52,11 +52,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.1000site.ir",
+            "address": "www.asamserver.com",
             "port": 443,
             "users": [
               {
-                "id": "0b4b623c-2914-494d-b6b8-b03fbf4d6655",
+                "id": "fada38d6-331c-4016-945a-d5b2e8aa5e37",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "nAvIa.YaEmiKO.CLoUDnS.Org",
+          "serverName": "iT1.V2vLeSs.xyZ",
           "alpn": [
             "h2",
             "http/1.1"
@@ -81,9 +81,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/ed?=2048",
+          "path": "/vless",
           "headers": {
-            "Host": "nAvIa.YaEmiKO.CLoUDnS.Org"
+            "Host": "iT1.V2vLeSs.xyZ"
           }
         },
         "sockopt": {
